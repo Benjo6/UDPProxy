@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDPProxy", "UDPProxy\UDPProxy.csproj", "{17BEAA57-E88E-4866-A37B-4F6652061FA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorREST", "SensorREST\SensorREST.csproj", "{FEC725E0-A060-45AB-B671-B4A079E90E61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelLib", "ModelLib\ModelLib.csproj", "{F0D6C963-1CEE-43F6-8533-6F5DA7682A3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17BEAA57-E88E-4866-A37B-4F6652061FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17BEAA57-E88E-4866-A37B-4F6652061FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17BEAA57-E88E-4866-A37B-4F6652061FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17BEAA57-E88E-4866-A37B-4F6652061FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC725E0-A060-45AB-B671-B4A079E90E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC725E0-A060-45AB-B671-B4A079E90E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC725E0-A060-45AB-B671-B4A079E90E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC725E0-A060-45AB-B671-B4A079E90E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0D6C963-1CEE-43F6-8533-6F5DA7682A3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D6C963-1CEE-43F6-8533-6F5DA7682A3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D6C963-1CEE-43F6-8533-6F5DA7682A3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D6C963-1CEE-43F6-8533-6F5DA7682A3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22D8F12B-597B-4280-8C4E-E80031A9B440}
+	EndGlobalSection
+EndGlobal
