@@ -44,7 +44,7 @@ namespace UDPProxy
                 {
                     return;
                 }
-                throw new ArgumentException("opret fejlede");
+                throw new ArgumentException("opret fejlede"); 
             }
         }
     }
